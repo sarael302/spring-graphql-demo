@@ -1,0 +1,9 @@
+com\example\springboot_graphql_produit\demo\model\Categorie.class
+com\example\springboot_graphql_produit\demo\controller\CategorieController$CategorieInput.class
+com\example\springboot_graphql_produit\demo\controller\ProduitController$ProduitInput.class
+com\example\springboot_graphql_produit\demo\controller\ProduitController.class
+com\example\springboot_graphql_produit\demo\DemoApplication.class
+com\example\springboot_graphql_produit\demo\repository\ProduitRepository.class
+com\example\springboot_graphql_produit\demo\controller\CategorieController.class
+com\example\springboot_graphql_produit\demo\repository\CategorieRepository.class
+com\example\springboot_graphql_produit\demo\model\Produit.class
